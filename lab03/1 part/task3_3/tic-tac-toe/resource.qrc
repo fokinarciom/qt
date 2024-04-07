@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Новая папка/cross1.png</file>
+        <file>Новая папка/circle.png</file>
+    </qresource>
+</RCC>
