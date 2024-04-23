@@ -20,8 +20,8 @@ void FernLeaf::paintEvent(QPaintEvent *event)  {
     QPainter painter(this);
     painter.setRenderHint(QPainter::Antialiasing);
 
-    const int width = width();
-    const int height = height();
+    const int width = this->width();
+    const int height = this->height();
     const int numPoints = 100000;
     const double scale = 50.0;
 
